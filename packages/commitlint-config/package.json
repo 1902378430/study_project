@@ -1,0 +1,12 @@
+{
+  "name": "commitlint-config",
+  "version": "0.0.1",
+  "description": "commitlint命令配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./__tests__/commitlint-config.test.js"
+  },
+  "peerDependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
+  }
+}
