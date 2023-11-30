@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f9730ab8","path":"/markdownlint/","title":"这是一个关于markdownlint的文件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1701352397000,"contributors":[{"name":"angelCopy","email":"1902378430@qq.com","commits":1}]},"filePathRelative":"markdownlint/index.md"}');export{t as data};

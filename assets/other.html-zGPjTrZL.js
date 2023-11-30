@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1437ad26","path":"/markdownlint/other.html","title":"这是一个侧边栏","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1701352397000,"contributors":[{"name":"angelCopy","email":"1902378430@qq.com","commits":1}]},"filePathRelative":"markdownlint/other.md"}');export{t as data};

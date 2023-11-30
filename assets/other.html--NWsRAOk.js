@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,a as e,b as c}from"./app-NsPgzmrq.js";const r={},s=e("h1",{id:"这是一个侧边栏",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#这是一个侧边栏","aria-hidden":"true"},"#"),c(" 这是一个侧边栏")],-1),n=e("p",null,"侧边栏2",-1),_=[s,n];function d(h,i){return o(),a("div",null,_)}const f=t(r,[["render",d],["__file","other.html.vue"]]);export{f as default};
