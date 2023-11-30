@@ -7,7 +7,7 @@
     "init": "pnpm install",
     "clean": "lerna clean && rm -rf node_modules",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress bulild docs",
+    "docs:build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "publish": "lerna publish",
     "lint": "markdownlint README.md",
