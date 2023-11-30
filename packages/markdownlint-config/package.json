@@ -1,0 +1,10 @@
+{
+  "name": "markdownlint-config",
+  "version": "0.0.1",
+  "description": "用于markdown规范检查",
+  "main": "index.json",
+  "scripts": {},
+  "devDependencies": {
+    "markdownlint": "0.32.1"
+  }
+}

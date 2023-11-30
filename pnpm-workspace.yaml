@@ -1,0 +1,4 @@
+packages:
+  # 配置 monorepo 多包目录
+  - "packages/*"
+  - "components/*"
